@@ -18,6 +18,10 @@ VJ Visual Engine: Load a folder of videos, GIFs, and images to be automatically 
 
 Real-Time A/V Export: Record your live performance (both audio and video) to a single .mp4 file using ffmpeg.
 
+
+
+![Screenshot of the Abo Kalleb Mixer interface](abo_kalleb_mixer_screenshot.png)
+
 Installation
 
 To run this project, you'll need Python 3, ffmpeg, and several Python libraries.
