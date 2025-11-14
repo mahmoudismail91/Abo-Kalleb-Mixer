@@ -1,6 +1,7 @@
 🐋 AL HUT الحوت Abo Kalleb Mixer أبو كلب 🐋
 
-Welcome to AL HUT (الحوت), a real-time audio mixer and visual (VJ) performance tool written in Python. This application allows you to mix multiple audio tracks, apply real-time effects, and sync generative visuals for a live A/V performance.
+real-time audio mixer and visual tool written in Python. 
+This application allows you to mix multiple audio tracks, apply real-time effects, and sync generative visuals for a live A/V performance.
 
 Features
 
