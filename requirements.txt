@@ -1,0 +1,6 @@
+﻿numpy
+sounddevice
+pydub
+pedalboard
+opencv-python
+pillow
